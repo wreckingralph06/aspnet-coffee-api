@@ -1,0 +1,33 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+
+# Logs
+*.log
+
+# Rider / JetBrains
+.idea/
+
+# ASP.NET temp files
+wwwroot/
+appsettings.*.json
+
+# Test results
+TestResults/
+*.trx
+
+# Dotnet Core
+*.dotCover
+*.DotSettings
